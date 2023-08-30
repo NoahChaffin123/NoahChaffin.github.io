@@ -1,12 +1,6 @@
 body {
     background-color: white; 
     text-align: center; 
-    div {
-        width: 300px;
-        border: 15px solid rgb(136, 56, 124);
-        padding: 50px;
-        margin: 20px;
-        }
 } 
 p {  
     font-size: 20px;
