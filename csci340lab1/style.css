@@ -1,0 +1,24 @@
+body {
+    background-color: white; 
+    text-align: center; 
+    border-color: black;
+} 
+p {  
+
+    font-size: 20px;
+} 
+h1 {
+    font-size: 48px;
+} 
+h2 {
+    font-size: 48px;  
+}  
+ul {
+    text-align: center; 
+    list-style-type: none; /* Remove bullets */
+    padding: 0; /* Remove padding */
+    margin: 0; /* Remove margins */
+}
+h3 {
+    font-size: 48px;
+} 
