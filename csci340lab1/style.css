@@ -1,24 +1,35 @@
 body {
     background-color: white; 
     text-align: center; 
-    border-color: black;
+    div {
+        width: 300px;
+        border: 15px solid rgb(136, 56, 124);
+        padding: 50px;
+        margin: 20px;
+        }
 } 
 p {  
-
     font-size: 20px;
 } 
+
 h1 {
-    font-size: 48px;
+    font-size: 48px; 
+    font-family: 'Times New Roman', Times, serif; 
+    background-color: antiquewhite; 
 } 
 h2 {
     font-size: 48px;  
-}  
+    font-family: 'Times New Roman', Times, serif; 
+    background-color: aqua;
+}   
 ul {
     text-align: center; 
-    list-style-type: none; /* Remove bullets */
+    list-style-type: none; /* Remove bullets https://www.w3schools.com/howto/howto_css_list_without_bullets.asp*/
     padding: 0; /* Remove padding */
     margin: 0; /* Remove margins */
 }
 h3 {
-    font-size: 48px;
+    font-size: 48px; 
+    font-family: 'Times New Roman', Times, serif;
+    background-color: aquamarine;
 } 
