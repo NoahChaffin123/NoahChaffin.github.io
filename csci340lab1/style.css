@@ -9,12 +9,14 @@ p {
 h1 {
     font-size: 48px; 
     font-family: 'Times New Roman', Times, serif; 
-    background-color: antiquewhite; 
+    background-color: antiquewhite;    
+    display: inline;
 } 
 h2 {
     font-size: 48px;  
     font-family: 'Times New Roman', Times, serif; 
-    background-color: aqua;
+    background-color: aqua; 
+    display: inline;
 }   
 ul {
     text-align: center; 
@@ -25,5 +27,6 @@ ul {
 h3 {
     font-size: 48px; 
     font-family: 'Times New Roman', Times, serif;
-    background-color: aquamarine;
+    background-color: aquamarine; 
+    display: inline;
 } 
