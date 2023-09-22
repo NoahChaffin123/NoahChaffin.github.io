@@ -22,7 +22,7 @@ $(document).ready(function() {
       dataType: "json",
       url: "https://randomfox.ca/floof/",
       success: function(statement) {
-        console.log(statement["id"]);
+        console.log(statement);
         $('#kittens').attr("src", statement["image"]);
         
       },
